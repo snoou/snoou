@@ -10,8 +10,7 @@
 ...!%@@@$%!...:%$%:....:%$$%......:*$@@@%*:.......:*$@@@$*:.......!%$@@$%!......
 
 ```
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/snoou/snoou/refs/heads/main/ChatGPT%20Image%20Mar%2031%2C%202025%2C%2002_31_00%20PM.png" > 
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

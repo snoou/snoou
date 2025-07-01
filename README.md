@@ -18,3 +18,5 @@
 ![Front-End](https://img.shields.io/badge/Front--End-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snoou&show_icons=true&theme=radical)
